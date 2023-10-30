@@ -1,0 +1,34 @@
+.heading{
+    text-align: left;
+width: 100%;
+}
+.b1{
+    float: right;
+    border:1px solid white;
+}
+
+#Source{
+    background-color: rgb(228, 228, 228);
+    line-height: 3;
+    margin: 0px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    
+}
+
+.Img{
+width: 45%;
+display: inline-block;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+video{
+    background: url('game_console.png');
+    background-size:cover;
+    background-position:center;
+    padding:25px;
+}
